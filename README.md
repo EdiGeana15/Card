@@ -1,3 +1,3 @@
-*JUST MY INFO RIGHT HERE* 
+# JUST MY INFO RIGHT HERE
 
-https://edigeana15.github.io/Card/
+## https://edigeana15.github.io/Card/
